@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+cache/
+.asar-extract/
+
+ssh_askpass_helper.bat
+
+*.log
